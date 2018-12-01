@@ -11,5 +11,8 @@ Happy Open Sourcing!
 ## List of all Algorithms
 
 - [Maximum of Array](algorithms/maximum_of_array)
-- [Bubble_Sort](algorithms/Bubble_Sort.py)
-- [binomialCoefficient](algorithms/binomialCoefficient.py)
+- [Breadth First Traversal](algorithms/breadth_first_traversal)
+- [Bubble_Sort](algorithms/Bubble_Sort)
+- [Heap Sort](algorithms/heap_sort)
+- [Quick Sort](algorithm/quick_sort)
+- [binomialCoefficient](algorithms/binomialCoefficient)
