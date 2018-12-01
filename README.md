@@ -11,5 +11,5 @@ Happy Open Sourcing!
 ## List of all Algorithms
 
 - [Maximum of Array](algorithms/maximum_of_array)
-- [Bubble_Sort](algorithms/Bubble_Sort)
 - [Breadth First Traversal](algorithms/breadth_first_traversal)
+- [Bubble_Sort](algorithms/Bubble_Sort)
