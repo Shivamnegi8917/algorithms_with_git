@@ -11,4 +11,17 @@ Happy Open Sourcing!
 ## List of all Algorithms
 
 - [Maximum of Array](algorithms/maximum_of_array)
-- [Bubble_Sort](algorithms/Bubble_Sort.py)
+- [Breadth First Traversal](algorithms/breadth_first_traversal)
+- [Bubble Sort](algorithms/Bubble_Sort)
+- [Heap Sort](algorithms/heap_sort)
+- [Quick Sort](algorithm/quick_sort)
+- [Binomial Coefficient](algorithms/binomialCoefficient)
+- [Insertion Sort](algorithms/insertion_sort)
+- [Floyd Warshall Algorithm](algorithms/floyd_warshall)
+- [Graph Coloring using backtracking](algorithms/graph_coloring.c)
+- [Merge Sort](algorithms/Merge_Sort)
+- [Dijkstra Shortest Path](algorithms/dijkstra)
+- [Caesar's Cipher](algorithms/Caesar's_cipher)
+- [Array Rotation By 1](algorithms/array_rotation_by_1)
+- [Magic Number](algorithms/magic_no/)
+

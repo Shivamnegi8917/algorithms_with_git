@@ -1,4 +1,4 @@
-# Maxmimum of Array
+# Maximum of Array
 
 This program takes an array of size **N** and prints its maximum.
 
@@ -28,3 +28,5 @@ A single integer, the maximum of the array.
 ### Implemented in:
 
 - [C](maximum_of_array.c)
+- [C++](maximum_of_array.cpp)
+- [Python](maximum_of_array.py)
